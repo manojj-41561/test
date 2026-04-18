@@ -1,4 +1,4 @@
-FROM openjdk:21-jre-alpine
+FROM ubuntu/jdk:21-24.04
 
 EXPOSE 8080
 
